@@ -12,7 +12,7 @@ title                    : "McAbindau's Lab"
 title_separator          : "-"
 name                     : &name "Emmanuel Abindau"
 description              : &description "I'm Emmanuel Abindau, an academic with a passion for teaching and research. "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eabindau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mcabindau/eabindau.github.io"
 
