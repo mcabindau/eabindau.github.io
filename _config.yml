@@ -22,8 +22,8 @@ repository               : "mcabindau/eabindau.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Emmanuel Abindau"
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University of Ghana"
